@@ -1,2 +1,4 @@
 models
 masks-dataset
+cleaned.csv
+export.pkl

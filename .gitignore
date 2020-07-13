@@ -1,4 +1,6 @@
-models
-masks-dataset
+.ipynb_checkpoints/
 cleaned.csv
 export.pkl
+masks-dataset/
+Âmodels/
+models

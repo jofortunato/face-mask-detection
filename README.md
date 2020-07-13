@@ -9,6 +9,7 @@ The notebook `face-mask-detection.ipynb` shows how I trained the model, using [f
 ## Examples
 
 face-mask: 
+
 <img src="https://beira.pt/wp-content/uploads/2020/06/marcelo-rebelo-de-sousa-covid.jpg">
 
 incorrect-face-mask-usage:
